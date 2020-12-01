@@ -15,9 +15,9 @@ How many page faults would occur for the following replacement algorithms, assum
 ### Solution:
 
 <div align='center'>
-<img src = 'Output.PNG' height="300px">
+<img src = 'Output.png' height="500px">
 </div>
 
 ### Steps of Code Execution:
   1. Clone / Download this [repository](https://github.com/nikita9604/Page-Replacement-Algorithms)
-  2. Open Scilab and Run the main file - [Ex_9_8.sce]()
+  2. Open Scilab and Run the main file - [Ex_9_8.sce](https://github.com/nikita9604/Page-Replacement-Algorithms/blob/main/Ex_9_8.sce)
